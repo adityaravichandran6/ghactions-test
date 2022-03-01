@@ -1,9 +1,5 @@
-name: CI/CD
-
 on:
   push:
-    branches: [ master ]
-  pull_request:
     branches: [ master ]
 
 jobs:
@@ -42,5 +38,5 @@ jobs:
       env:
         user_name: 'adityaravichandran6'
         user_email: 'adityaravichandran6@gmail.com'
-        github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
+        github_token: ${{ secrets.ACCESS_TOKEN_PAGES }}
         repository: ${{ github.repository }}
