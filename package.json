@@ -1,8 +1,8 @@
 {
-  "name": "ghaction-test",
+  "name": "ghactions-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adityaravichandran6.github.io/ghaction-test",
+  "homepage": "https://adityaravichandran6.github.io/ghactions-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
