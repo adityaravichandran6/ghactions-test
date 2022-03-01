@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ghaction-test/static/css/main.1d9a89b0.css",
-    "main.js": "/ghaction-test/static/js/main.7ceb27f6.js",
-    "static/js/787.6f0850c4.chunk.js": "/ghaction-test/static/js/787.6f0850c4.chunk.js",
-    "static/media/segoeuil.ttf": "/ghaction-test/static/media/segoeuil.e18d91020999e89fe132.ttf",
-    "index.html": "/ghaction-test/index.html",
-    "main.1d9a89b0.css.map": "/ghaction-test/static/css/main.1d9a89b0.css.map",
-    "main.7ceb27f6.js.map": "/ghaction-test/static/js/main.7ceb27f6.js.map",
-    "787.6f0850c4.chunk.js.map": "/ghaction-test/static/js/787.6f0850c4.chunk.js.map"
+    "main.css": "/ghactions-test/static/css/main.a1a02baa.css",
+    "main.js": "/ghactions-test/static/js/main.e1da1b14.js",
+    "static/js/787.23c811fa.chunk.js": "/ghactions-test/static/js/787.23c811fa.chunk.js",
+    "static/media/segoeuil.ttf": "/ghactions-test/static/media/segoeuil.e18d91020999e89fe132.ttf",
+    "index.html": "/ghactions-test/index.html",
+    "main.a1a02baa.css.map": "/ghactions-test/static/css/main.a1a02baa.css.map",
+    "main.e1da1b14.js.map": "/ghactions-test/static/js/main.e1da1b14.js.map",
+    "787.23c811fa.chunk.js.map": "/ghactions-test/static/js/787.23c811fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d9a89b0.css",
-    "static/js/main.7ceb27f6.js"
+    "static/css/main.a1a02baa.css",
+    "static/js/main.e1da1b14.js"
   ]
 }
