@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ghaction-test/static/css/main.1d9a89b0.css",
+    "main.js": "/ghaction-test/static/js/main.ff0c94da.js",
+    "static/js/787.a6545543.chunk.js": "/ghaction-test/static/js/787.a6545543.chunk.js",
+    "static/media/segoeuil.ttf": "/ghaction-test/static/media/segoeuil.e18d91020999e89fe132.ttf",
+    "index.html": "/ghaction-test/index.html",
+    "main.1d9a89b0.css.map": "/ghaction-test/static/css/main.1d9a89b0.css.map",
+    "main.ff0c94da.js.map": "/ghaction-test/static/js/main.ff0c94da.js.map",
+    "787.a6545543.chunk.js.map": "/ghaction-test/static/js/787.a6545543.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9a89b0.css",
+    "static/js/main.ff0c94da.js"
+  ]
+}
